@@ -20,7 +20,7 @@
     ```toml
     # .streamlit/secrets.toml
     [openai]
-    api_key = "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"
+    api_key = "api key"
     ```
 4.  **애플리케이션 실행:**
     ```bash
@@ -30,5 +30,6 @@
 ## ☁️ Streamlit Cloud 배포
 
 이 프로젝트는 GitHub에 푸시된 후, Streamlit Cloud를 통해 쉽게 배포될 수 있습니다. 배포 시 **"Secrets"** 설정에 OpenAI API 키를 입력해야 합니다.
+
 
 ---
